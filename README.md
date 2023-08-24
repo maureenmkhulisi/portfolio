@@ -1,11 +1,11 @@
-#Maureen Mkhulisi
-#Data Analyst Portfolio
+# Maureen Mkhulisi
+# Data Analyst Portfolio
 ## About Me
 
 I am a Masters in Management student currently based in Barcelona, Spain, with a passion for finance and data analytics. With over two years of finance working experience in the retail and transport industries, I've gained valuable insights into the challenges and opportunities that businesses face in today's fast-paced environment. I am building my skills in data analysis, including SQL, R programming, Python, and Tableau. My goal is to use these skills to help organizations make data-driven decisions that optimize their performance and drive growth. I'm fluent in English, German (conversational), and Afrikaans. I believe that my ability to communicate effectively across cultures and languages is a valuable asset in today's globalized business environment.
 
-##Projects
-###Project 1 : Netlfix Movies  TV Shows Analysis
+## Projects
+### Project 1 : Netlfix Movies  TV Shows Analysis
 
 ## Experience
 

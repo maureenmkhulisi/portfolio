@@ -9,7 +9,7 @@ I am a Masters in Management graduate with a track in Digital Business, I am pas
 
 ## Experience
 
-### Consultant @ BANTING LABS | February 2023 - July 2023
+### Consultant @ BANTING LABS - February 2023 - July 2023
 *Barcelona, Spain*  
 - Worked in a team of 5 consultants to build a business case to raise €2 million venture capital for a Biotech startup
 - Performed market research & analysis in the Biotechnology industry and analyzed trends
@@ -17,14 +17,14 @@ I am a Masters in Management graduate with a track in Digital Business, I am pas
 - Conducted financial analysis & projections and 5-year business management
 - Created and developed differentiation strategies to position Banting Labs as a leader in the industry
 
-### Debtors Clerk @ ROAD FUND ADMINISTRATION | March 2021 - August 2021 
+### Debtors Clerk @ ROAD FUND ADMINISTRATION - March 2021 - August 2021 
 *Windhoek, Namibia*  
 - Facilitated clients with account applications and vehicle registrations
 - Analyzed client account data and prepared journals to correct inconsistencies
 - Investigated unallocated transactions on Suspense account, contacting clients and banks for identification and allocation purposes
 - Analyzed clients' payment trends and implemented debt recovery strategies (Microsoft Excel, Oracle)
 
-### Bank & Cash Clerk @ WECKE & VOIGTS | June 2019 - July 2020
+### Bank & Cash Clerk @ WECKE & VOIGTS - June 2019 - July 2020
 *Windhoek, Namibia*  
 - Exported and allocated daily bank transactions to general ledger accounts
 - Investigated and identified unallocated transactions from debtors in the Suspense Account
@@ -40,7 +40,7 @@ I am a Masters in Management graduate with a track in Digital Business, I am pas
 
 ## Languages
 
-English (Native) | Afrikaans (Bilingual) | German (Work Proficiency)
+English (Native) - Afrikaans (Bilingual) - German (Work Proficiency)
 
 ## Additional Information
 

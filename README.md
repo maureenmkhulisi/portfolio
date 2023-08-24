@@ -10,7 +10,7 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 ## Experience
 
 ### BANTING LABS - Biotechnology Manufacturer
-**Consultant / EADA MAPS Project**  
+**Consultant**
 *Barcelona, Spain*  
 *Start: February 2023 - End: July 2023*
 
@@ -45,13 +45,11 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 
 **Masters in Management**  
 *EADA Business School*  
-*Barcelona, Spain*  
-*2022 - July 2023*  
+*Barcelona, Spain*   
 
 **Bachelors in Accounting (Honours)**  
 *University of Namibia*  
 *Windhoek, Namibia*  
-*2015 - 2018*
 
 ## Languages
 

@@ -4,7 +4,29 @@
 I am a Masters in Management graduate with a track in Digital Business, I am passionate and enthusiastic about the power of finance and data analytics. With over two years of finance working experience in the retail and transport industries, I've gained valuable insights into the challenges and opportunities that businesses face in today's fast-paced environment. I am building my skills in data analysis, including SQL, R programming, Python, and Tableau. My goal is to use these skills to help organizations make data-driven decisions that optimize their performance and drive growth. I'm fluent in English, German (conversational), and Afrikaans. I believe that my ability to communicate effectively across cultures and languages is a valuable asset in today's globalized business environment.
 
 ## Projects
-### Project 1 : Netlfix Movies  TV Shows Analysis
+### Project 1 :Exploring Netflix Show Dataset, Analyzing Production Trends and Popular Genres
+### Dataset Overview
+The Netflix show dataset used in this project contains comprehensive information about movies and TV shows available on the Netflix platform. It includes details such as title, type (movie or TV show), country of production, release year, and genre.
+## Methods and Analysis
+### 1. Data Preprocessing
+The initial phase of the project involved data preprocessing, including cleaning and handling missing values to ensure the accuracy of subsequent analyses.
+
+### 2. Top Producing Countries
+By aggregating and analyzing the data by the country of production, I identified the top countries that were the most prolific in producing movies and TV shows available on Netflix. This allowed me to shed light on the geographic distribution of content creation.
+
+### 3. Release Year Analysis
+Through visualizations and statistical analysis, I determined the years in which Netflix released a higher number of movies and TV shows. This analysis provided insights into trends in content release over time.
+
+### 4. Popular Genres
+Using genre information, I employed data visualization techniques to uncover the most prevalent genres on the Netflix platform. This exploration enabled me to understand the genres that have garnered significant attention from audiences.
+
+## Results and Insights
+Based on the analysis conducted, several key insights emerged:
+- The top countries contributing to the Netflix content library were identified, showcasing the global nature of content production.
+- Peaks in content release years revealed trends in production cycles and potential shifts in viewer preferences over time.
+- The most popular genres on Netflix were unveiled, offering valuable insights into the types of content that resonate with the audience.
+
+
 
 
 ## Experience

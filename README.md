@@ -1,4 +1,3 @@
-# Maureen Mkhulisi
 # Data Analyst Portfolio
 ## About Me
 
@@ -6,6 +5,7 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 
 ## Projects
 ### Project 1 : Netlfix Movies  TV Shows Analysis
+
 
 ## Experience
 
@@ -43,13 +43,9 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 
 ## Education
 
-**Masters in Management**  
-*EADA Business School*  
-*Barcelona, Spain*   
+**Masters in Management** |*EADA Business School* |*Barcelona, Spain* | 2023
 
-**Bachelors in Accounting (Honours)**  
-*University of Namibia*  
-*Windhoek, Namibia*  
+**Bachelors in Accounting** |*University of Namibia* |*Windhoek, Namibia* | 2019 
 
 ## Languages
 

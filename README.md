@@ -9,32 +9,23 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 
 ## Experience
 
-### BANTING LABS - Biotechnology Manufacturer
-**Consultant**
+### Consultant @ BANTING LABS | February 2023 - July 2023
 *Barcelona, Spain*  
-*Start: February 2023 - End: July 2023*
-
 - Worked in a team of 5 consultants to build a business case to raise €2 million venture capital for a Biotech startup
 - Performed market research & analysis in the Biotechnology industry and analyzed trends
 - Developed a marketing strategy
 - Conducted financial analysis & projections and 5-year business management
 - Created and developed differentiation strategies to position Banting Labs as a leader in the industry
 
-### ROAD FUND ADMINISTRATION - State-owned enterprise
-**Debtors Clerk**  
+### Debtors Clerk @ ROAD FUND ADMINISTRATION | March 2021 - August 2021 
 *Windhoek, Namibia*  
-*Start: March 2021 - End: August 2021*
-
 - Facilitated clients with account applications and vehicle registrations
 - Analyzed client account data and prepared journals to correct inconsistencies
 - Investigated unallocated transactions on Suspense account, contacting clients and banks for identification and allocation purposes
 - Analyzed clients' payment trends and implemented debt recovery strategies (Microsoft Excel, Oracle)
 
-### WECKE & VOIGTS - Leading Retailer and Wholesaler
-**Bank & Cash Clerk**  
+### Bank & Cash Clerk @ WECKE & VOIGTS | June 2019 - July 2020
 *Windhoek, Namibia*  
-*Start: June 2019 - End: July 2020*
-
 - Exported and allocated daily bank transactions to general ledger accounts
 - Investigated and identified unallocated transactions from debtors in the Suspense Account
 - Prepared and processed payments to creditors and settled invoices
@@ -49,10 +40,7 @@ I am a Masters in Management student currently based in Barcelona, Spain, with a
 
 ## Languages
 
-- English (Native)
-- Afrikaans (Bilingual)
-- German (Advanced)
-- Spanish (Basic)
+English (Native) | Afrikaans (Bilingual) | German (Work Proficiency)
 
 ## Additional Information
 

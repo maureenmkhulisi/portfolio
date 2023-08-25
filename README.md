@@ -1,9 +1,14 @@
 # Maureen Mkhulisi
-### Technical Skills - Python, ACCPAC, Oracle, SQL, Tableau, R Programming, Microsoft Office
+### Technical Skills - Python, ACCPAC, SQL, Tableau, R Programming, Excel
 
-I am a Masters in Management graduate with a track in Digital Business, I am passionate and enthusiastic about the power of finance and data analytics. With over two years of finance working experience in the retail and transport industries, I've gained valuable insights into the challenges and opportunities that businesses face in today's fast-paced environment. I am building my skills in data analysis, including SQL, R programming, Python, and Tableau. My goal is to use these skills to help organizations make data-driven decisions that optimize their performance and drive growth. I'm fluent in English, German (conversational), and Afrikaans. I believe that my ability to communicate effectively across cultures and languages is a valuable asset in today's globalized business environment.
+I am building my skills in data analysis, including SQL, R programming, Python, and Tableau. My goal is to use these skills to help organizations make data-driven decisions that optimize their performance and drive growth. 
+## Education
 
-## Project 1 | Exploring Netflix TV Shows & Movies
+** - Masters in Management** |*EADA Business School* |*Barcelona, Spain* | 2023
+
+** - Bachelors in Accounting** |*University of Namibia* |*Windhoek, Namibia* | 2019 
+
+## Project 1 | Python | Exploring Netflix TV Shows & Movies
 Analyzing Production Trends and Popular Genres
 ### Dataset Overview
 The Netflix show dataset used in this project contains comprehensive information about movies and TV shows available on the Netflix platform. It includes details such as title, type (movie or TV show), country of production, release year, and genre.
@@ -54,11 +59,7 @@ Based on the analysis conducted, several key insights emerged:
 - Conducted monthly reconciliation of bank accounts and traveling expenses of directors and partners
 - Used Microsoft Excel and Sage (ACCPAC)
 
-## Education
 
-**Masters in Management** |*EADA Business School* |*Barcelona, Spain* | 2023
-
-**Bachelors in Accounting** |*University of Namibia* |*Windhoek, Namibia* | 2019 
 
 ## Languages
 

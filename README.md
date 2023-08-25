@@ -4,9 +4,9 @@
 I am building my skills in data analysis, including SQL, R programming, Python, and Tableau. My goal is to use these skills to help organizations make data-driven decisions that optimize their performance and drive growth. 
 ## Education
 
-** - Masters in Management** |*EADA Business School* |*Barcelona, Spain* | 2023
+**-Masters in Management** |*EADA Business School* |*Barcelona, Spain* | 2023
 
-** - Bachelors in Accounting** |*University of Namibia* |*Windhoek, Namibia* | 2019 
+**-Bachelors in Accounting** |*University of Namibia* |*Windhoek, Namibia* | 2019 
 
 ## Project 1 | Python | Exploring Netflix TV Shows & Movies
 Analyzing Production Trends and Popular Genres

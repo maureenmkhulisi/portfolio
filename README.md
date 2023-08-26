@@ -8,7 +8,7 @@ I am building my skills in data analysis, including SQL, R programming, Python, 
 
 **Bachelors in Accounting(Honours)** |*University of Namibia* |*Windhoek, Namibia* | April 2019 
 
-## Project 1 | Python | Exploring Netflix TV Shows & Movies
+## Project 1 | Python | [Exploring Netflix TV Shows & Movies](https://github.com/maureenmkhulisi/portfolio/blob/main/Python%20:%20Project%201.ipynb)
 Analyzing Production Trends and Popular Genres
 ### Dataset Overview
 The Netflix show dataset used in this project contains comprehensive information about movies and TV shows available on the Netflix platform. It includes details such as title, type (movie or TV show), country of production, release year, and genre.
